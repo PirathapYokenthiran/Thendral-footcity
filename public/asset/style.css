@@ -1,0 +1,32 @@
+body {
+      background: #02368a;
+      color: #fff;
+      font-family: 'Arial', sans-serif;
+    }
+    .offer-box {
+      background: #fff;
+      color: #000;
+      border-radius: 10px;
+      padding: 15px;
+    }
+    .offer-box table th {
+      background: #0066ff;
+      color: #fff;
+      text-align: center;
+    }
+    .price-old {
+      text-decoration: line-through;
+      color: red;
+      font-size: 0.9rem;
+    }
+    .header-title {
+      font-size: 2.2rem;
+      font-weight: bold;
+      color: yellow;
+      text-shadow: 2px 2px 5px #000;
+    }
+    .top-bar {
+      display: flex;
+      justify-content: flex-end;
+      padding: 10px;
+    }
