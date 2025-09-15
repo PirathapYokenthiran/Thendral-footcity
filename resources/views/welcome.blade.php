@@ -6,6 +6,8 @@
     <title>Happy Supermarket Offers</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ asset('asset/style.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://kit.fontawesome.com/fa9b419720.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -77,10 +79,9 @@
     </div>
 
     <div class="text-center mt-3">
-        <p>📞 0777 8080 30</p>
+        <p><i class="fa-solid fa-phone"></i> 0777 8080 30</p>
         <p class="text-warning">நேரடி, சிலிர்க்கும் கொள்வனவுகளுக்கு மட்டுமே...</p>
     </div>
     </div>
 </body>
-<script src="https://kit.fontawesome.com/fa9b419720.js" crossorigin="anonymous"></script>
 </html>
